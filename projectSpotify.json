@@ -1,0 +1,235 @@
+{
+  "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02/albums?include_groups=album,single,compilation,appears_on&offset=5&limit=5&market=CA",
+  "items": [
+      {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+              {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                  "id": "06HL4z0CvFAxyc27GXpf02",
+                  "name": "Taylor Swift",
+                  "type": "artist",
+                  "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+              }
+          ],
+          "external_urls": {
+              "spotify": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+          },
+          "href": "https://api.spotify.com/v1/albums/151w1FgRZfnKZA9FEcg9Z3",
+          "id": "151w1FgRZfnKZA9FEcg9Z3",
+          "images": [
+              {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+                  "width": 640
+              },
+              {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02bb54dde68cd23e2a268ae0f5",
+                  "width": 300
+              },
+              {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851bb54dde68cd23e2a268ae0f5",
+                  "width": 64
+              }
+          ],
+          "is_playable": true,
+          "name": "Midnights",
+          "release_date": "2022-10-21",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:151w1FgRZfnKZA9FEcg9Z3"
+      },
+      {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+              {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                  "id": "06HL4z0CvFAxyc27GXpf02",
+                  "name": "Taylor Swift",
+                  "type": "artist",
+                  "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+              }
+          ],
+          "external_urls": {
+              "spotify": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+          },
+          "href": "https://api.spotify.com/v1/albums/6kZ42qRrzov54LcAk4onW9",
+          "id": "6kZ42qRrzov54LcAk4onW9",
+          "images": [
+              {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d",
+                  "width": 640
+              },
+              {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02318443aab3531a0558e79a4d",
+                  "width": 300
+              },
+              {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851318443aab3531a0558e79a4d",
+                  "width": 64
+              }
+          ],
+          "is_playable": true,
+          "name": "Red (Taylor's Version)",
+          "release_date": "2021-11-12",
+          "release_date_precision": "day",
+          "total_tracks": 30,
+          "type": "album",
+          "uri": "spotify:album:6kZ42qRrzov54LcAk4onW9"
+      },
+      {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+              {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                  "id": "06HL4z0CvFAxyc27GXpf02",
+                  "name": "Taylor Swift",
+                  "type": "artist",
+                  "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+              }
+          ],
+          "external_urls": {
+              "spotify": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+          },
+          "href": "https://api.spotify.com/v1/albums/4hDok0OAJd57SGIT8xuWJH",
+          "id": "4hDok0OAJd57SGIT8xuWJH",
+          "images": [
+              {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de",
+                  "width": 640
+              },
+              {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02a48964b5d9a3d6968ae3e0de",
+                  "width": 300
+              },
+              {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851a48964b5d9a3d6968ae3e0de",
+                  "width": 64
+              }
+          ],
+          "is_playable": true,
+          "name": "Fearless (Taylor's Version)",
+          "release_date": "2021-04-09",
+          "release_date_precision": "day",
+          "total_tracks": 26,
+          "type": "album",
+          "uri": "spotify:album:4hDok0OAJd57SGIT8xuWJH"
+      },
+      {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+              {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                  "id": "06HL4z0CvFAxyc27GXpf02",
+                  "name": "Taylor Swift",
+                  "type": "artist",
+                  "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+              }
+          ],
+          "external_urls": {
+              "spotify": "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG"
+          },
+          "href": "https://api.spotify.com/v1/albums/6AORtDjduMM3bupSWzbTSG",
+          "id": "6AORtDjduMM3bupSWzbTSG",
+          "images": [
+              {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
+                  "width": 640
+              },
+              {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0290fd9741e1838115cd90b3b6",
+                  "width": 300
+              },
+              {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485190fd9741e1838115cd90b3b6",
+                  "width": 64
+              }
+          ],
+          "is_playable": true,
+          "name": "evermore (deluxe version)",
+          "release_date": "2021-01-07",
+          "release_date_precision": "day",
+          "total_tracks": 17,
+          "type": "album",
+          "uri": "spotify:album:6AORtDjduMM3bupSWzbTSG"
+      },
+      {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+              {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                  "id": "06HL4z0CvFAxyc27GXpf02",
+                  "name": "Taylor Swift",
+                  "type": "artist",
+                  "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+              }
+          ],
+          "external_urls": {
+              "spotify": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+          },
+          "href": "https://api.spotify.com/v1/albums/2Xoteh7uEpea4TohMxjtaq",
+          "id": "2Xoteh7uEpea4TohMxjtaq",
+          "images": [
+              {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be",
+                  "width": 640
+              },
+              {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0233b8541201f1ef38941024be",
+                  "width": 300
+              },
+              {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485133b8541201f1ef38941024be",
+                  "width": 64
+              }
+          ],
+          "is_playable": true,
+          "name": "evermore",
+          "release_date": "2020-12-11",
+          "release_date_precision": "day",
+          "total_tracks": 15,
+          "type": "album",
+          "uri": "spotify:album:2Xoteh7uEpea4TohMxjtaq"
+      }
+  ],
+  "limit": 5,
+  "next": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02/albums?include_groups=album,single,compilation,appears_on&offset=10&limit=5&market=CA",
+  "offset": 5,
+  "previous": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02/albums?include_groups=album,single,compilation,appears_on&offset=0&limit=5&market=CA",
+  "total": 374
+}

@@ -1,0 +1,15 @@
+1. cURL
+curl --request GET \
+  --url 'https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02/albums?market=CA&limit=5' \
+  --header 'Authorization: Bearer 1POdFZRZbvb...qqillRxMr2z'
+
+2. Wget
+wget --quiet \
+  --method GET \
+  --header 'Authorization: Bearer 1POdFZRZbvb...qqillRxMr2z' \
+  --output-document \
+  - 'https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02/albums?market=CA&limit=5'
+
+3. HTTPie
+http GET 'https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02/albums?market=CA&limit=5' \
+  Authorization:'Bearer 1POdFZRZbvb...qqillRxMr2z'
