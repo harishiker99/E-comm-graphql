@@ -1,0 +1,415 @@
+{
+  "data": {
+    "shop": {
+      "name": "graphql",
+      "id": "gid://shopify/Shop/13120893"
+    },
+    "productTags": {
+      "edges": [
+        {
+          "node": "0"
+        },
+        {
+          "node": "2"
+        },
+        {
+          "node": "4"
+        },
+        {
+          "node": "6"
+        },
+        {
+          "node": "8"
+        }
+      ]
+    },
+    "productTypes": {
+      "edges": [
+        {
+          "node": ""
+        },
+        {
+          "node": "Blouse"
+        },
+        {
+          "node": "Boots"
+        },
+        {
+          "node": "Dress"
+        },
+        {
+          "node": "Gift Card"
+        }
+      ]
+    },
+    "products": {
+      "edges": [
+        {
+          "node": {
+            "id": "gid://shopify/Product/9895276099",
+            "createdAt": "2017-04-10T19:01:56Z",
+            "media": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71836598328",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 600,
+                      "altText": null,
+                      "width": 517
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71836631096",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 600,
+                      "altText": null,
+                      "width": 517
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71836663864",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 600,
+                      "altText": null,
+                      "width": 517
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71836696632",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 600,
+                      "altText": null,
+                      "width": 517
+                    }
+                  }
+                }
+              ]
+            },
+            "isGiftCard": false,
+            "availableForSale": true,
+            "featuredImage": {
+              "url": "https://cdn.shopify.com/s/files/1/1312/0893/products/001_grande_89f870ed-dc56-4990-9aa5-4f11ddf13108.jpg?v=1491918957",
+              "width": 517,
+              "height": 600,
+              "altText": null
+            },
+            "productType": "Boots",
+            "priceRange": {
+              "maxVariantPrice": {
+                "amount": "163.0",
+                "currencyCode": "CAD"
+              },
+              "minVariantPrice": {
+                "amount": "158.0",
+                "currencyCode": "CAD"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/9895279043",
+            "createdAt": "2017-04-10T19:02:24Z",
+            "media": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71836729400",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 2048,
+                      "altText": null,
+                      "width": 1766
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71836762168",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 2048,
+                      "altText": null,
+                      "width": 1766
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71836794936",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 2048,
+                      "altText": null,
+                      "width": 1766
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71836827704",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 2048,
+                      "altText": null,
+                      "width": 1766
+                    }
+                  }
+                }
+              ]
+            },
+            "isGiftCard": false,
+            "availableForSale": true,
+            "featuredImage": {
+              "url": "https://cdn.shopify.com/s/files/1/1312/0893/products/001_f5b2f018-5434-446e-912c-10484293c134.jpg?v=1491850944",
+              "width": 1766,
+              "height": 2048,
+              "altText": null
+            },
+            "productType": "Boots",
+            "priceRange": {
+              "maxVariantPrice": {
+                "amount": "188.0",
+                "currencyCode": "CAD"
+              },
+              "minVariantPrice": {
+                "amount": "188.0",
+                "currencyCode": "CAD"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/9895281475",
+            "createdAt": "2017-04-10T19:02:50Z",
+            "media": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71836860472",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 2048,
+                      "altText": null,
+                      "width": 1766
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71836893240",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 2048,
+                      "altText": null,
+                      "width": 1766
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71836926008",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 2048,
+                      "altText": null,
+                      "width": 1766
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71836958776",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 2048,
+                      "altText": null,
+                      "width": 1766
+                    }
+                  }
+                }
+              ]
+            },
+            "isGiftCard": false,
+            "availableForSale": true,
+            "featuredImage": {
+              "url": "https://cdn.shopify.com/s/files/1/1312/0893/products/001_d31a9463-4495-4024-ab4b-6901bdd1752e.jpg?v=1491850970",
+              "width": 1766,
+              "height": 2048,
+              "altText": null
+            },
+            "productType": "Boots",
+            "priceRange": {
+              "maxVariantPrice": {
+                "amount": "188.0",
+                "currencyCode": "CAD"
+              },
+              "minVariantPrice": {
+                "amount": "188.0",
+                "currencyCode": "CAD"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/9895284291",
+            "createdAt": "2017-04-10T19:03:19Z",
+            "media": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71836991544",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 2048,
+                      "altText": null,
+                      "width": 1766
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71837024312",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 2048,
+                      "altText": null,
+                      "width": 1766
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71837057080",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 2048,
+                      "altText": null,
+                      "width": 1766
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71837089848",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 2048,
+                      "altText": null,
+                      "width": 1766
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71837122616",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 2048,
+                      "altText": null,
+                      "width": 1766
+                    }
+                  }
+                }
+              ]
+            },
+            "isGiftCard": false,
+            "availableForSale": true,
+            "featuredImage": {
+              "url": "https://cdn.shopify.com/s/files/1/1312/0893/products/001_fa260252-43fd-4cee-8164-f5c14b641399.jpg?v=1491850999",
+              "width": 1766,
+              "height": 2048,
+              "altText": null
+            },
+            "productType": "Boots",
+            "priceRange": {
+              "maxVariantPrice": {
+                "amount": "158.0",
+                "currencyCode": "CAD"
+              },
+              "minVariantPrice": {
+                "amount": "158.0",
+                "currencyCode": "CAD"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/9895287619",
+            "createdAt": "2017-04-10T19:03:50Z",
+            "media": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71837188152",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 2048,
+                      "altText": null,
+                      "width": 1766
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71837220920",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 2048,
+                      "altText": null,
+                      "width": 1766
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/MediaImage/71837253688",
+                    "mediaContentType": "IMAGE",
+                    "image": {
+                      "height": 2048,
+                      "altText": null,
+                      "width": 1766
+                    }
+                  }
+                }
+              ]
+            },
+            "isGiftCard": false,
+            "availableForSale": true,
+            "featuredImage": {
+              "url": "https://cdn.shopify.com/s/files/1/1312/0893/products/001_c0f47f6b-eddb-494e-9915-483d4153b0a1.jpg?v=1491851030",
+              "width": 1766,
+              "height": 2048,
+              "altText": null
+            },
+            "productType": "Shirts",
+            "priceRange": {
+              "maxVariantPrice": {
+                "amount": "108.0",
+                "currencyCode": "CAD"
+              },
+              "minVariantPrice": {
+                "amount": "108.0",
+                "currencyCode": "CAD"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

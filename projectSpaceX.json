@@ -1,0 +1,54 @@
+{
+  "data": {
+    "company": {
+      "ceo": "Elon Musk",
+      "links": {
+        "website": "https://www.spacex.com/"
+      },
+      "founded": 2002,
+      "employees": 9500
+    },
+    "rockets": [
+      {
+        "active": false,
+        "cost_per_launch": 6700000,
+        "country": "Republic of the Marshall Islands",
+        "id": "5e9d0d95eda69955f709d1eb",
+        "type": "rocket",
+        "name": "Falcon 1",
+        "success_rate_pct": 40,
+        "wikipedia": "https://en.wikipedia.org/wiki/Falcon_1"
+      },
+      {
+        "active": true,
+        "cost_per_launch": 50000000,
+        "country": "United States",
+        "id": "5e9d0d95eda69973a809d1ec",
+        "type": "rocket",
+        "name": "Falcon 9",
+        "success_rate_pct": 98,
+        "wikipedia": "https://en.wikipedia.org/wiki/Falcon_9"
+      },
+      {
+        "active": true,
+        "cost_per_launch": 90000000,
+        "country": "United States",
+        "id": "5e9d0d95eda69974db09d1ed",
+        "type": "rocket",
+        "name": "Falcon Heavy",
+        "success_rate_pct": 100,
+        "wikipedia": "https://en.wikipedia.org/wiki/Falcon_Heavy"
+      },
+      {
+        "active": false,
+        "cost_per_launch": 7000000,
+        "country": "United States",
+        "id": "5e9d0d96eda699382d09d1ee",
+        "type": "rocket",
+        "name": "Starship",
+        "success_rate_pct": 0,
+        "wikipedia": "https://en.wikipedia.org/wiki/SpaceX_Starship"
+      }
+    ]
+  }
+}
